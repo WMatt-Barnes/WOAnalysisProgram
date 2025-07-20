@@ -49,7 +49,7 @@ python main.py
 
 ## License
 
-[Add your license information here]
+MIT License - See LICENSE file for details
 
 ## Contributing
 
