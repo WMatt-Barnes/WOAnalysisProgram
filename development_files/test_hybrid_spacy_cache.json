@@ -1,0 +1,75 @@
+{
+  "spacy_-7977077442714692697": {
+    "code": "1.1",
+    "description": "Pump Failure",
+    "confidence": 0.75,
+    "method": "ai_spacy",
+    "matched_keyword": "",
+    "reasoning": "SpaCy analysis score: 0.750",
+    "entities": [],
+    "equipment_type": "bearing, pump",
+    "failure_indicators": [
+      "vibration",
+      "failure"
+    ]
+  },
+  "embeddings_-8631130220135366827": {
+    "code": "1.2",
+    "description": "Motor Failure",
+    "confidence": 0.8834301233291626,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.767, normalized confidence: 0.883",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "spacy_7110191001821621911": {
+    "code": "2.1",
+    "description": "Fluid Leak",
+    "confidence": 1.0,
+    "method": "ai_spacy",
+    "matched_keyword": "",
+    "reasoning": "SpaCy analysis score: 1.000",
+    "entities": [],
+    "equipment_type": "seal, pump",
+    "failure_indicators": [
+      "leak"
+    ]
+  },
+  "embeddings_1621313326438891474": {
+    "code": "3.1",
+    "description": "Sensor Failure",
+    "confidence": 0.6911739706993103,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.382, normalized confidence: 0.691",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "spacy_5665858949323894120": {
+    "code": "2.2",
+    "description": "Valve Failure",
+    "confidence": 0.75,
+    "method": "ai_spacy",
+    "matched_keyword": "",
+    "reasoning": "SpaCy analysis score: 0.750",
+    "entities": [],
+    "equipment_type": "valve",
+    "failure_indicators": [
+      "stuck"
+    ]
+  },
+  "embeddings_7482919591767256430": {
+    "code": "3.2",
+    "description": "Electrical Failure",
+    "confidence": 0.803811252117157,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.608, normalized confidence: 0.804",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  }
+}

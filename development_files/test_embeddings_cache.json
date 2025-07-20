@@ -1,0 +1,46 @@
+{
+  "embeddings_-4319357102103664170": {
+    "code": "1.3",
+    "description": "Bearing Failure",
+    "confidence": 0.8504906892776489,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.701, normalized confidence: 0.850",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "embeddings_-5127684904081994573": {
+    "code": "1.2",
+    "description": "Motor Failure",
+    "confidence": 0.8099855780601501,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.620, normalized confidence: 0.810",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "embeddings_-3429701799015853372": {
+    "code": "2.1",
+    "description": "Fluid Leak",
+    "confidence": 0.8027375340461731,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.605, normalized confidence: 0.803",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "embeddings_-4393142401528202100": {
+    "code": "3.1",
+    "description": "Sensor Failure",
+    "confidence": 0.7528722882270813,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.506, normalized confidence: 0.753",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  }
+}

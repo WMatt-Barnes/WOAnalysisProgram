@@ -1,0 +1,118 @@
+{
+  "embeddings_5089922327646339370": {
+    "code": "1.1",
+    "description": "Pump Failure",
+    "confidence": 0.7574277520179749,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.515, normalized confidence: 0.757",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "embeddings_-7143596176722469090": {
+    "code": "1.2",
+    "description": "Motor Failure",
+    "confidence": 0.8375376462936401,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.675, normalized confidence: 0.838",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "spacy_7110191001821621911": {
+    "code": "2.1",
+    "description": "Fluid Leak",
+    "confidence": 1.0,
+    "method": "ai_spacy",
+    "matched_keyword": "",
+    "reasoning": "SpaCy analysis score: 1.000",
+    "entities": [],
+    "equipment_type": "seal, pump",
+    "failure_indicators": [
+      "leak"
+    ]
+  },
+  "embeddings_4912896313327072156": {
+    "code": "3.1",
+    "description": "Sensor Failure",
+    "confidence": 0.728681743144989,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.457, normalized confidence: 0.729",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "spacy_-9029759997993891376": {
+    "code": "2.2",
+    "description": "Valve Failure",
+    "confidence": 1.0,
+    "method": "ai_spacy",
+    "matched_keyword": "",
+    "reasoning": "SpaCy analysis score: 1.000",
+    "entities": [],
+    "equipment_type": "valve, actuator",
+    "failure_indicators": [
+      "stuck"
+    ]
+  },
+  "embeddings_1168578787347455973": {
+    "code": "3.2",
+    "description": "Electrical Failure",
+    "confidence": 0.7321318984031677,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.464, normalized confidence: 0.732",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "spacy_-4053349985971883126": {
+    "code": "1.1",
+    "description": "Pump Failure",
+    "confidence": 0.45,
+    "method": "ai_spacy",
+    "matched_keyword": "",
+    "reasoning": "SpaCy analysis score: 0.450",
+    "entities": [],
+    "equipment_type": "pump, seal",
+    "failure_indicators": [
+      "failure"
+    ]
+  },
+  "embeddings_1004843106790107811": {
+    "code": "3.1",
+    "description": "Sensor Failure",
+    "confidence": 0.7114399671554565,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.423, normalized confidence: 0.711",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "embeddings_5525228090540354947": {
+    "code": "1.3",
+    "description": "Bearing Failure",
+    "confidence": 0.6354830861091614,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.271, normalized confidence: 0.635",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  },
+  "embeddings_4328714714065320801": {
+    "code": "2.2",
+    "description": "Valve Failure",
+    "confidence": 0.777100145816803,
+    "method": "ai_embeddings",
+    "matched_keyword": "",
+    "reasoning": "Embedding similarity: 0.554, normalized confidence: 0.777",
+    "entities": null,
+    "equipment_type": "",
+    "failure_indicators": null
+  }
+}
