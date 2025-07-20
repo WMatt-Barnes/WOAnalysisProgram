@@ -14,7 +14,7 @@ A Python application for analyzing and classifying work orders using AI and expe
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/WOAnalysisProgram.git
+git clone https://github.com/mattbarnes/WOAnalysisProgram.git
 cd WOAnalysisProgram
 ```
 
